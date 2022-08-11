@@ -1,0 +1,13 @@
+C:\Users\Usuário\Desktop\ItemPededidos\obj\Debug\netcoreapp3.1\ItemPededidos.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\ItemPededidos\obj\Debug\netcoreapp3.1\ItemPededidos.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\ItemPededidos\obj\Debug\netcoreapp3.1\ItemPededidos.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\ItemPededidos\obj\Debug\netcoreapp3.1\ItemPededidos.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\ItemPededidos\bin\Debug\netcoreapp3.1\ItemPededidos.exe
+C:\Users\Usuário\Desktop\ItemPededidos\bin\Debug\netcoreapp3.1\ItemPededidos.deps.json
+C:\Users\Usuário\Desktop\ItemPededidos\bin\Debug\netcoreapp3.1\ItemPededidos.runtimeconfig.json
+C:\Users\Usuário\Desktop\ItemPededidos\bin\Debug\netcoreapp3.1\ItemPededidos.runtimeconfig.dev.json
+C:\Users\Usuário\Desktop\ItemPededidos\bin\Debug\netcoreapp3.1\ItemPededidos.dll
+C:\Users\Usuário\Desktop\ItemPededidos\bin\Debug\netcoreapp3.1\ItemPededidos.pdb
+C:\Users\Usuário\Desktop\ItemPededidos\obj\Debug\netcoreapp3.1\ItemPededidos.dll
+C:\Users\Usuário\Desktop\ItemPededidos\obj\Debug\netcoreapp3.1\ItemPededidos.pdb
+C:\Users\Usuário\Desktop\ItemPededidos\obj\Debug\netcoreapp3.1\ItemPededidos.genruntimeconfig.cache
